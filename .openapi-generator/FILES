@@ -1,0 +1,17 @@
+.gitignore
+.openapi-generator-ignore
+.travis.yml
+README.md
+git_push.sh
+shard.yml
+spec/api/pets_api_spec.cr
+spec/models/pet_spec.cr
+spec/models/show_pet_by_id200_response_spec.cr
+spec/spec_helper.cr
+src/addlprops.cr
+src/addlprops/api/pets_api.cr
+src/addlprops/api_client.cr
+src/addlprops/api_error.cr
+src/addlprops/configuration.cr
+src/addlprops/models/pet.cr
+src/addlprops/models/show_pet_by_id200_response.cr

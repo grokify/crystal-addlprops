@@ -1,0 +1,1 @@
+java -jar openapi-generator-cli.jar generate -i addlprop_spec.json -g crystal -o addlprops --additional-properties=shardName=addlprops,moduleName=Addlprops,shardLicense=MIT,shardVersion=0.1.0,shardAuthors=grokify,shardDescription=Additional\ Properties\ demo
